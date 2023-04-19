@@ -1,0 +1,624 @@
+./Bip_CICD_Config.csv
+./Bip_CICD_Folder_Config.csv
+./FolderContentsResponseV2.xml
+./FolderContentsV2.xml
+./Google_Key.json
+./Readme.txt
+./ResponseImport.txt
+./UpdatesResponseV2.xml
+./UpdatesV2.xml
+./bin/BIPCatalogUtil.cmd
+./bin/BIPCatalogUtil.sh
+./bin/BIPOrchestrationUtil.cmd
+./bin/BIPOrchestrationUtil.sh
+./bin/Catman.sh
+./bin/DataModel.txt
+./bin/DataModelFinal.txt
+./bin/Report.txt
+./bin/ReportFinal.txt
+./bin/applyPatch.cmd
+./bin/applyPatch.sh
+./bin/bipSoapGetFolderNewResults.txt
+./bin/bipSoapGetFolderResults.txt
+./bin/bipSoapGetObjectResults.txt
+./bin/createDiff.cmd
+./bin/createDiff.sh
+./bin/createPatch.cmd
+./bin/curl_output
+./bin/exportResponse.xml
+./bin/runcat.cmd
+./bin/runcat.sh
+./bipCreateFolderResponseV2.xml
+./bipSoapCreateFolderV2.xml
+./bipSoapExportEnvelop.xml
+./bipSoapExportV2.xml
+./bipSoapGetFolderNewResults.txt
+./bipSoapGetItems.xml
+./bipSoapGetItemsEnvelop.xml
+./bipSoapImportEnvelopDraft.xml
+./bipSoapLoginEnvelop.xml
+./bipSoapLoginEnvelopTest.xml
+./bip_catalog_export.sh
+./bip_catalog_import.sh
+./bip_config.json
+./bip_export.sh
+./bip_folder_config.json
+./bip_folder_export.sh
+./bip_folder_import.sh
+./bip_import.sh
+./bip_job_config.csv
+./bip_job_config.json
+./bip_object_export.sh
+./bip_object_import.sh
+./ciout.html
+./config/bipSoapLoginEnvelop.xml
+./config/xmlp-client-config.xml
+./create-jwt-token.sh
+./existsResponseV2.xml
+./existsV2.xml
+./export.sh
+./exportResponse.catalog
+./exportResponse.txt
+./exportResponseImport.txt
+./exportResponseV2.txt
+./exportResponseV2.xml
+./export_bip_job.out
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdo/Invoice_det_test_DM_f_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_REP.xdo/Invoice_det_test_REP_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_REP.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_REP.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_REP.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_REP.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_f.xdo/Invoice_run_report_f_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_f.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_f.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_f.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_f.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_rep.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_rep.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_rep.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_rep.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_test10_rep.xdo/Invoice_test10_rep_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_test10_rep.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_test10_rep.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_test10_rep.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Invoice_test10_rep.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdo/Run_Report_F.xpt.png
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdo/Run_Report_F_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F2.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F2.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F2.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Run_Report_F2.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Run_report.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Run_report.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Run_report.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Run_report.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdo/Test_Demo.xpt.png
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdo/Test_Demo_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Report_F.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Report_F.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Report_F.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/Test_Demo_Report_F.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XXCUST_EMP_DET.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XXCUST_EMP_DET.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XXCUST_EMP_DET.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XXCUST_EMP_DET.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC1.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC1.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC1.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC1.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC2.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC2.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC2.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC2.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_DETAILS.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_DETAILS.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_DETAILS.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_DETAILS.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Rep10.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Rep10.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Rep10.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Rep10.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Report.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Report.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Report.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Report.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_REPORT2.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_REPORT2.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_REPORT2.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_REPORT2.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_LOOKUPS.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_LOOKUPS.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_LOOKUPS.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_LOOKUPS.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_RECEIVABLES.xdm/_datamodel.xdm
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_RECEIVABLES.xdm/sample.xml
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_RECEIVABLES.xdm/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_AR_RECEIVABLES.xdm/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/XX_INVOICE_TEST2_REP.xdo/XX_INVOICE_TEST2_REP_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/XX_INVOICE_TEST2_REP.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/XX_INVOICE_TEST2_REP.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/XX_INVOICE_TEST2_REP.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/XX_INVOICE_TEST2_REP.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Data Model/invoice_test11_rep.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Data Model/invoice_test11_rep.xdo/invoice_test11_rep_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Data Model/invoice_test11_rep.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Data Model/invoice_test11_rep.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Data Model/invoice_test11_rep.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XXCUST_EMP_DETAILS.xdo/XXCUST_EMP_DETAILS_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XXCUST_EMP_DETAILS.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XXCUST_EMP_DETAILS.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XXCUST_EMP_DETAILS.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XXCUST_EMP_DETAILS.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdo/XX_ADJ_REC1.xpt.png
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdo/XX_ADJ_REC1_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC2.xdo/XX_ADJ_REC2_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC2.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC2.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC2.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_ADJ_REC2.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_DETAILS.xdo/XX_AR_INVOICE_DETAILS_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_DETAILS.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_DETAILS.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_DETAILS.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_DETAILS.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW.xdo/XX_AR_INVOICE_NEW_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdo/XX_AR_INVOICE_NEW1.xpt.png
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdo/XX_AR_INVOICE_NEW1_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_LOOKUPS.xdo/XX_AR_LOOKUPS_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_LOOKUPS.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_LOOKUPS.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_LOOKUPS.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_LOOKUPS.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES.xdo/XX_AR_RECEIVABLES_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdo/XX_AR_RECEIVABLES2.xpt.png
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdo/XX_AR_RECEIVABLES2_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdo/~security.sec
+./extract_files/Custom/FIN/Receivables/Report/test.xdo/XX_AR_INVOICE_NEW1.xpt.png
+./extract_files/Custom/FIN/Receivables/Report/test.xdo/XX_AR_INVOICE_NEW1_en_US.xpt
+./extract_files/Custom/FIN/Receivables/Report/test.xdo/_report.xdo
+./extract_files/Custom/FIN/Receivables/Report/test.xdo/xdo.cfg
+./extract_files/Custom/FIN/Receivables/Report/test.xdo/~metadata.meta
+./extract_files/Custom/FIN/Receivables/Report/test.xdo/~security.sec
+./extract_files/Custom/HCM/Worker/Dashboard/DataModels/Per_Data_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Dashboard/DataModels/Per_Data_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Dashboard/FinalImport/Per_Data_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Dashboard/FinalImport/Per_Data_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Dashboard/Worker Data Model.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Dashboard/Worker Data Model.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/OBL_WORKER_DATA_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/OBL_WORKER_DATA_DM.xdm/sample.xml
+./extract_files/Custom/HCM/Worker/Data Model/OBL_WORKER_DATA_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/OBL_WORKER_DATA_DM.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/Untitled.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/Untitled.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/Untitled.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/Worker_p.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/Worker_p.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/Worker_p.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/Worker_pp.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/Worker_pp.xdm/sample.xml
+./extract_files/Custom/HCM/Worker/Data Model/Worker_pp.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/Worker_pp.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_DM.xdm/sample.xml
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_DM.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_REPORT.xdo/XX_COMMON_ALL_REPORT_en_US.xpt
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_REPORT.xdo/_report.xdo
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_REPORT.xdo/xdo.cfg
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_REPORT.xdo/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_REPORT.xdo/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_DM.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT.xdo/XX_COMMON_REPORT_en_US.xpt
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT.xdo/_report.xdo
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT.xdo/xdo.cfg
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT.xdo/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT.xdo/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT_NO.xdo/_report.xdo
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT_NO.xdo/xdo.cfg
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT_NO.xdo/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT_NO.xdo/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_PERSON_EXTRACT_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_PERSON_EXTRACT_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_PERSON_EXTRACT_DM.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_TEST1_HCM_DATA.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_TEST1_HCM_DATA.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_TEST1_HCM_DATA.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_TEST_HCM_DATA.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_TEST_HCM_DATA.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_TEST_HCM_DATA.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_USER_PREFERENCE_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_USER_PREFERENCE_DM.xdm/sample.xml
+./extract_files/Custom/HCM/Worker/Data Model/XX_USER_PREFERENCE_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_USER_PREFERENCE_DM.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/XX_WORKER_DATA.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Data Model/XX_WORKER_DATA.xdm/sample.xml
+./extract_files/Custom/HCM/Worker/Data Model/XX_WORKER_DATA.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/XX_WORKER_DATA.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Data Model/worker_pp_report.xdo/_report.xdo
+./extract_files/Custom/HCM/Worker/Data Model/worker_pp_report.xdo/xdo.cfg
+./extract_files/Custom/HCM/Worker/Data Model/worker_pp_report.xdo/~metadata.meta
+./extract_files/Custom/HCM/Worker/Data Model/worker_pp_report.xdo/~security.sec
+./extract_files/Custom/HCM/Worker/Report/XX_COMMON_ALL_DM.xdm/_datamodel.xdm
+./extract_files/Custom/HCM/Worker/Report/XX_COMMON_ALL_DM.xdm/~metadata.meta
+./extract_files/Custom/HCM/Worker/Report/XX_COMMON_ALL_DM.xdm/~security.sec
+./extract_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdo/XX_USER_PREFERENCE_REPORT.xpt.png
+./extract_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdo/XX_USER_PREFERENCE_REPORT_en_US.xpt
+./extract_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdo/_report.xdo
+./extract_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdo/xdo.cfg
+./extract_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdo/~metadata.meta
+./extract_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdo/~security.sec
+./extract_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdo/XX_WORKER_REPORT.xpt.png
+./extract_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdo/XX_WORKER_REPORT_en_US.xpt
+./extract_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdo/_report.xdo
+./extract_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdo/xdo.cfg
+./extract_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdo/~metadata.meta
+./extract_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdo/~security.sec
+./extract_files/Custom/Setup Migration/Data Models/Setup BO Data DM.xdm/_datamodel.xdm
+./extract_files/Custom/Setup Migration/Data Models/Setup BO Data DM.xdm/sample.xml
+./extract_files/Custom/Setup Migration/Data Models/Setup BO Data DM.xdm/~metadata.meta
+./extract_files/Custom/Setup Migration/Data Models/Setup BO Process DM.xdm/_datamodel.xdm
+./extract_files/Custom/Setup Migration/Data Models/Setup BO Process DM.xdm/sample.xml
+./extract_files/Custom/Setup Migration/Data Models/Setup BO Process DM.xdm/~metadata.meta
+./extract_files/Custom/Setup Migration/Data Models/SetupData DM.xdm/_datamodel.xdm
+./extract_files/Custom/Setup Migration/Data Models/SetupData DM.xdm/sample.xml
+./extract_files/Custom/Setup Migration/Data Models/SetupData DM.xdm/~metadata.meta
+./filelist.txt
+./files.txt
+./folder_file.sh
+./folders.txt
+./get-access-token.sh
+./gitdiffresponse.txt
+./gitdiffsourceresponse.txt
+./import.sh
+./last_commit.txt
+./lib/Common-Model.jar
+./lib/activation.jar
+./lib/activemq-all.jar
+./lib/adf-loc.jar
+./lib/adf-model.jar
+./lib/adf-richclient-api.jar
+./lib/adf-share-ca.jar
+./lib/agent-core.jar
+./lib/annotations-api.jar
+./lib/ant-launcher.jar
+./lib/ant.jar
+./lib/antlr.jar
+./lib/aolj.jar
+./lib/aopalliance-repackaged.jar
+./lib/ap.jar
+./lib/applcp.jar
+./lib/asm-analysis.jar
+./lib/asm-tree.jar
+./lib/asm-util.jar
+./lib/asm.jar
+./lib/axis_bip.jar
+./lib/bi-bar.jar
+./lib/bi-base-lcm-api.jar
+./lib/bi-endpointmanager-pub.jar
+./lib/bi-migration-common.jar
+./lib/bi-security-core.jar
+./lib/bi-servicelcm-api.jar
+./lib/bijdbc.jar
+./lib/biputil.jar
+./lib/catalina.jar
+./lib/com-bea-core-utils-full.jar
+./lib/com-oracle-weblogic-application.jar
+./lib/com.sun.jersey.client.jar
+./lib/com.sun.jersey.core.jar
+./lib/com.sun.jersey.json.jar
+./lib/commons-codec-1-3.jar
+./lib/commons-collections.jar
+./lib/commons-dbcp.jar
+./lib/commons-discovery.jar
+./lib/commons-el.jar
+./lib/commons-fileupload.jar
+./lib/commons-httpclient.jar
+./lib/commons-io-2-4.jar
+./lib/commons-lang.jar
+./lib/commons-logging-1-0-4.jar
+./lib/commons-pool.jar
+./lib/core.jar
+./lib/css.jar
+./lib/cssSpy.jar
+./lib/dms.jar
+./lib/dvt-faces.jar
+./lib/dvt-jclient.jar
+./lib/dvt-utils.jar
+./lib/ecj.jar
+./lib/eclipselink.jar
+./lib/ejb-api.jar
+./lib/el-api.jar
+./lib/el-impl.jar
+./lib/esapi.jar
+./lib/ess-sec.jar
+./lib/ess.jar
+./lib/ess_es_server.jar
+./lib/ess_japi.jar
+./lib/external-uix2-uix2tags.jar
+./lib/fmw_audit.jar
+./lib/fndall.zip
+./lib/fwkjbo.zip
+./lib/groovy.jar
+./lib/gson.jar
+./lib/hamcrest-core.jar
+./lib/help-oracle_ice.jar
+./lib/help-share.jar
+./lib/hk2-api.jar
+./lib/hk2-locator.jar
+./lib/hk2-utils.jar
+./lib/http_client.jar
+./lib/hyjdbc.jar
+./lib/i18nAPI_v3.jar
+./lib/identitydirectory.jar
+./lib/identitystore.jar
+./lib/identityutils.jar
+./lib/interop-sdk.jar
+./lib/jai-imageio-core.jar
+./lib/jasper-el.jar
+./lib/jasper.jar
+./lib/javase.jar
+./lib/javassist.jar
+./lib/javax-security-jacc.jar
+./lib/javax.annotation-api.jar
+./lib/javax.inject.jar
+./lib/javax.json.jar
+./lib/javax.ws.rs-api.jar
+./lib/javax.xml.rpc-api.jar
+./lib/jaxrpc-api-1-1.jar
+./lib/jcommander.jar
+./lib/jersey-client.jar
+./lib/jersey-common.jar
+./lib/jersey-container-servlet-core.jar
+./lib/jersey-container-servlet.jar
+./lib/jersey-entity-filtering.jar
+./lib/jersey-guava.jar
+./lib/jersey-media-jaxb.jar
+./lib/jersey-media-moxy.jar
+./lib/jersey-media-multipart.jar
+./lib/jersey-server.jar
+./lib/jewt-core-jewt4.jar
+./lib/jgoodies-looks.jar
+./lib/jline.jar
+./lib/jmxframework.jar
+./lib/jmxspi.jar
+./lib/jps-api.jar
+./lib/jps-audit.jar
+./lib/jps-common.jar
+./lib/jps-ee.jar
+./lib/jps-internal.jar
+./lib/jps-mbeans.jar
+./lib/jps-unsupported-api.jar
+./lib/js.jar
+./lib/jsp-api.jar
+./lib/jstl.jar
+./lib/juli.jar
+./lib/junit.jar
+./lib/ldapjclnt11.jar
+./lib/mail.jar
+./lib/mdds-api.jar
+./lib/mimepull.jar
+./lib/nanfwk.jar
+./lib/nansvs.jar
+./lib/nanuicore.jar
+./lib/ocns-jm.jar
+./lib/ohj.jar
+./lib/ojdbc6.jar
+./lib/ojdbc7.jar
+./lib/ojdbc8.jar
+./lib/ojdl.jar
+./lib/oracle-el.jar
+./lib/oracle.bi.bipublisher.test.zip
+./lib/oracle.ucm.ridc-12.1.3.jar
+./lib/oraclepki.jar
+./lib/orai18n-api.jar
+./lib/orai18n-collation-api.jar
+./lib/orai18n-mapping-api.jar
+./lib/orai18n-service-api.jar
+./lib/orai18n-utility-api.jar
+./lib/orasaaj-api.jar
+./lib/orasaaj-rt-api.jar
+./lib/orawsdl-api.jar
+./lib/org.codehaus.jackson.core.asl.jar
+./lib/org.codehaus.jackson.jaxrs.jar
+./lib/org.codehaus.jackson.mapper.asl.jar.jar
+./lib/org.codehaus.jackson.xc.jar
+./lib/org.eclipse.persistence.asm.jar
+./lib/org.eclipse.persistence.core.jar
+./lib/org.eclipse.persistence.moxy.jar
+./lib/osdt_cert.jar
+./lib/osdt_cms.jar
+./lib/osdt_core.jar
+./lib/osdt_smime.jar
+./lib/osdt_xmlsec.jar
+./lib/osgi-resource-locator.jar
+./lib/quartz-all.jar
+./lib/registry-api.jar
+./lib/release-transition-jewt4.jar
+./lib/rhino.jar
+./lib/sautils.jar
+./lib/sawconnect.jar
+./lib/sawj2eeutils.jar
+./lib/sawjaxwsutils.jar
+./lib/sawsoapjaxwsstubs.jar
+./lib/secpol.jar
+./lib/servlet-api.jar
+./lib/share.jar
+./lib/tomcat-api.jar
+./lib/tomcat-juli.jar
+./lib/tomcat-servlet-api.jar
+./lib/tomcat-util.jar
+./lib/trinidad-api.jar
+./lib/ua.jar
+./lib/uix2-install.zip
+./lib/uix2.jar
+./lib/validation-api.jar
+./lib/wls-api.jar
+./lib/ws_empty.jar
+./lib/wsclient-rt.jar
+./lib/xddo.jar
+./lib/xdo-core.jar
+./lib/xdo-server.jar
+./lib/xdoparser.jar
+./lib/xdoparser11g.jar
+./lib/xdoparser12c.jar
+./lib/xmlparserv2.jar
+./lib/xsu12.jar
+./lib/yuicompressor.jar
+./list.txt
+./listResponse.txt
+./push_to_repository.log
+./sedG7XuAa
+./sedVRDB3U
+./sedxsmUBr
+./source_files/Custom/BABS/BS_Rep_DM.xdm
+./source_files/Custom/CICD/BOS Conversion_1.1_Outputs/Business_Unit_Report.xdm
+./source_files/Custom/CICD/BOS Conversion_1.1_Outputs/XX Business.Unit.xdo
+./source_files/Custom/CICD/Bank_Statement.xdo
+./source_files/Custom/CICD/BusinessUnitReport.xdm
+./source_files/Custom/CICD/CICD Space Folder Path/XX Business Unit Report.xdo
+./source_files/Custom/CICD/CICD1/BusinessUnitReport.xdm
+./source_files/Custom/CICD/CICD1/CICD_TEST/BusinessUnitReport.xdm
+./source_files/Custom/CICD/CICD2/Bank_Statement.xdo
+./source_files/Custom/CICD/CICD3/BusinessUnitReport.xdm
+./source_files/Custom/CICD/New Business Unit Report.xdo
+./source_files/Custom/CICD/New_Bus_Model.xdm
+./source_files/Custom/CICD/XX Business Unit Report.xdo
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_DM_f.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_det_test_REP.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_run_report.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_f.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_run_report_rep.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Invoice_test10_rep.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Run_Report_F.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Run_Report_F2.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Run_report.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Test_Demo.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/Test_Demo_Rep.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/Test_Demo_Report_F.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/XXCUST_EMP_DET.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC1.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_ADJ_REC2.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_DETAILS.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Rep10.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_NEW_Report.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_INVOICE_REPORT2.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_LOOKUPS.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_AR_RECEIVABLES.xdmz
+./source_files/Custom/FIN/Receivables/Data Model/XX_INVOICE_TEST2_REP.xdoz
+./source_files/Custom/FIN/Receivables/Data Model/invoice_test11_rep.xdoz
+./source_files/Custom/FIN/Receivables/Report/XXCUST_EMP_DETAILS.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_ADJ_REC1.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_ADJ_REC2.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_DETAILS.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_AR_INVOICE_NEW1.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_AR_LOOKUPS.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES.xdoz
+./source_files/Custom/FIN/Receivables/Report/XX_AR_RECEIVABLES2.xdoz
+./source_files/Custom/FIN/Receivables/Report/test.xdoz
+./source_files/Custom/HCM/Worker/Dashboard/..catalog
+./source_files/Custom/HCM/Worker/Dashboard/DataModels/Per_Data_DM.xdmz
+./source_files/Custom/HCM/Worker/Dashboard/FinalImport/Per_Data_DM.xdmz
+./source_files/Custom/HCM/Worker/Dashboard/FinalImport/Worker Analysis.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Finance/Worker Analysis.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Finance/Worker.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Finance/Worker/Worker Analysis.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Import/Final/Worker Analysis.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker Analysis.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker Dashboard.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker Data Model.xdmz
+./source_files/Custom/HCM/Worker/Dashboard/Worker Prompt.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker_Data.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker_Snapshot.catalog
+./source_files/Custom/HCM/Worker/Dashboard/Worker_Snapshot.rpt.catalog
+./source_files/Custom/HCM/Worker/Data Model/OBL_WORKER_DATA_DM.xdmz
+./source_files/Custom/HCM/Worker/Data Model/Untitled.xdmz
+./source_files/Custom/HCM/Worker/Data Model/Worker_p.xdmz
+./source_files/Custom/HCM/Worker/Data Model/Worker_pp.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_DM.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_COMMON_ALL_REPORT.xdoz
+./source_files/Custom/HCM/Worker/Data Model/XX_COMMON_DM.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT.xdoz
+./source_files/Custom/HCM/Worker/Data Model/XX_COMMON_REPORT_NO.xdoz
+./source_files/Custom/HCM/Worker/Data Model/XX_PERSON_EXTRACT_DM.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_TEST1_HCM_DATA.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_TEST_HCM_DATA.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_USER_PREFERENCE_DM.xdmz
+./source_files/Custom/HCM/Worker/Data Model/XX_WORKER_DATA.xdmz
+./source_files/Custom/HCM/Worker/Data Model/worker_pp_report.xdoz
+./source_files/Custom/HCM/Worker/Report/XX_COMMON_ALL_DM.xdmz
+./source_files/Custom/HCM/Worker/Report/XX_USER_PREFERENCE_REPORT.xdoz
+./source_files/Custom/HCM/Worker/Report/XX_WORKER_REPORT.xdoz
+./source_files/Custom/Setup Migration/Data Models/Setup BO Data DM.xdmz
+./source_files/Custom/Setup Migration/Data Models/Setup BO Process DM.xdmz
+./source_files/Custom/Setup Migration/Data Models/SetupData DM.xdmz
+./source_files/shared/Custom/HCM/Worker/Dashboard/Finance/Worker Analysis.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Finance/Worker/Worker Analysis.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Worker Analysis.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Worker Dashboard.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Worker Prompt.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Worker_Data.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Worker_Snapshot.catalog
+./source_files/shared/Custom/HCM/Worker/Dashboard/Worker_Snapshot.rpt.catalog
+./uploadBipObjectv2.xml
+./uploadBipResponsev2.xml
+./filefolders.txt
